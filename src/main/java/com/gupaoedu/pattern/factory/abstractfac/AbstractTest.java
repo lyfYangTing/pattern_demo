@@ -1,7 +1,5 @@
 package com.gupaoedu.pattern.factory.abstractfac;
 
-import com.gupaoedu.pattern.factory.abstractfac.*;
-
 /**
  * @ClassName AbstractTest
  * @Description 抽象工厂测试
